@@ -2,8 +2,64 @@
   {
     "id":1,
       "title":"George MP3 General Knowledge Bangladesh Affairs full book",
-      "thumbnail":"https://drive.google.com/uc?export=view&id=1rguVqC8WWeuBFS9KpdA3OcTDjsfm4uAx",
+      "thumbnail":"https://e7.pngegg.com/pngimages/831/479/png-clipart-white-book-logo-ibooks-computer-icons-ios-apple-app-store-sparito-lo-scaffale-sono-rimaste-le-pagine-aperte-i-colori-cambiano-angle-text-thumbnail.png",
       "pages":600,
+      "parts":[
+        {
+          "part_id": 1,
+          "part_url":"https://drive.google.com/uc?export=view&id=1wDGwquqWgTmSRBd9LyH-K9YA3sSzEJW",
+          "part_pages": 150
+        },
+      
+      ]
+  }
+  {
+    "id":2,
+      "title":"George MP3 General Knowledge International Affairs full book",
+      "thumbnail":"https://e7.pngegg.com/pngimages/831/479/png-clipart-white-book-logo-ibooks-computer-icons-ios-apple-app-store-sparito-lo-scaffale-sono-rimaste-le-pagine-aperte-i-colori-cambiano-angle-text-thumbnail.png",
+      "pages":500,
+      "parts":[
+        {
+          "part_id": 1,
+          "part_url":"https://drive.google.com/uc?export=view&id=1wDGwquqWgTmSRBd9LyH-K9YA3sSzEJW",
+          "part_pages": 150
+        },
+      
+      ]
+  }
+  {
+    "id":3,
+      "title":"Competitive Exam English full book 2022 Edition",
+      "thumbnail":"https://e7.pngegg.com/pngimages/831/479/png-clipart-white-book-logo-ibooks-computer-icons-ios-apple-app-store-sparito-lo-scaffale-sono-rimaste-le-pagine-aperte-i-colori-cambiano-angle-text-thumbnail.png",
+      "pages":800,
+      "parts":[
+        {
+          "part_id": 1,
+          "part_url":"https://drive.google.com/uc?export=view&id=1wDGwquqWgTmSRBd9LyH-K9YA3sSzEJW",
+          "part_pages": 150
+        },
+      
+      ]
+  }
+  {
+    "id":4,
+      "title":"George MP3 Bangla Bakoron & Sahitto full book 2023 Edition",
+      "thumbnail":"https://e7.pngegg.com/pngimages/831/479/png-clipart-white-book-logo-ibooks-computer-icons-ios-apple-app-store-sparito-lo-scaffale-sono-rimaste-le-pagine-aperte-i-colori-cambiano-angle-text-thumbnail.png",
+      "pages":550,
+      "parts":[
+        {
+          "part_id": 1,
+          "part_url":"https://drive.google.com/uc?export=view&id=1wDGwquqWgTmSRBd9LyH-K9YA3sSzEJW",
+          "part_pages": 150
+        },
+      
+      ]
+  }
+  {
+    "id":5,
+      "title":"George MP3 Genaral Math full book 2023 Edition",
+      "thumbnail":"https://e7.pngegg.com/pngimages/831/479/png-clipart-white-book-logo-ibooks-computer-icons-ios-apple-app-store-sparito-lo-scaffale-sono-rimaste-le-pagine-aperte-i-colori-cambiano-angle-text-thumbnail.png",
+      "pages":450,
       "parts":[
         {
           "part_id": 1,
