@@ -7,9 +7,14 @@
     "parts": [
       {
         "part_id": 1,
-        "part_url": "https://drive.google.com/uc?export=view&id=1wDGwquqWgTmSRBd9LyH-K9YA3sSzEJW",
+        "part_url": "part 1 link",
         "part_pages": 150
-      }
+      },
+      {
+        "part_id": 2,
+        "part_url": "part-2 url",
+        "part_pages": 150
+      },
     ]
   },
   {
