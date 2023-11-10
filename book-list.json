@@ -14,5 +14,37 @@
         "part_pages": 313
       }
     ]
+  },
+  {
+    "id": 2,
+    "title": "নবম ও দশম শ্রেণির English for Toady",
+    "thumbnail": "https://i.ibb.co/6XPPK1K/boo-icon.png",
+    "pages": 209,
+    "category": "nctb",
+    "subcategory": "highschool",
+    "pub-year": "2018",
+    "parts": [
+      {
+        "part_id": 1,
+        "part_url": "https://drive.google.com/uc?export=view&id=1WS_5YsT7e6vTvv3e1VFEixnOGM1FaTM3",
+        "part_pages": 209
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "নবম ও দশম শ্রেণির বাংলা ভাষার ব্যাকরণ",
+    "thumbnail": "https://i.ibb.co/6XPPK1K/boo-icon.png",
+    "pages": 222,
+    "category": "nctb",
+    "subcategory": "highschool",
+    "pub-year": "2018",
+    "parts": [
+      {
+        "part_id": 1,
+        "part_url": "https://drive.google.com/uc?export=view&id=1Lz44Rw9btpgvBONTWYtDiagkkBwj_QNw",
+        "part_pages": 222
+      }
+    ]
   }
 ]
