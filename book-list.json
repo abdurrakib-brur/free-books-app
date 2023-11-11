@@ -12,6 +12,11 @@
         "part_id": 1,
         "part_url": "https://drive.google.com/uc?export=view&id=1dOQAVB6usKCoZ7_4HXYvPq7Eb16ihi1z",
         "part_pages": 313
+      },
+      {
+        "part_id": 2,
+        "part_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+        "part_pages": 1
       }
     ]
   },
