@@ -1,49 +1,49 @@
 [
   {
     "id": 1,
-    "title": "নবম ও দশম শ্রেণির বাংলা সাহিত্য",
+    "title": "বাংলা সাহিত্য - ২০২৩ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম ও দশম শ্রেণি",
     "thumbnail": "https://i.ibb.co/6XPPK1K/boo-icon.png",
-    "pages": 313,
+    "pages": 315,
     "category": "nctb",
     "subcategory": "highschool",
-    "pub-year": "2018",
+    "pub-year": "2023",
     "parts": [
       {
         "part_id": 1,
-        "part_url": "https://drive.google.com/uc?export=view&id=1dOQAVB6usKCoZ7_4HXYvPq7Eb16ihi1z",
-        "part_pages": 313
+        "part_url": "http://drive.google.com/uc?export=view&id=1UBAMV-V5Jow-Ihp3bCI8G1sdTC6sAiQF?usp=share_link",
+        "part_pages": 315
       }
     ]
   },
   {
     "id": 2,
-    "title": "নবম ও দশম শ্রেণির English for Toady",
+    "title": "বাংলা সহপাঠ\n - ২০২৩ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম ও দশম শ্রেণি",
     "thumbnail": "https://i.ibb.co/6XPPK1K/boo-icon.png",
-    "pages": 209,
+    "pages": 76,
     "category": "nctb",
     "subcategory": "highschool",
-    "pub-year": "2018",
+    "pub-year": "2023",
     "parts": [
       {
         "part_id": 1,
-        "part_url": "https://drive.google.com/uc?export=view&id=1WS_5YsT7e6vTvv3e1VFEixnOGM1FaTM3",
-        "part_pages": 209
+        "part_url": "https://drive.google.com/uc?export=view&id=1hTsXho38oMZpIbZ-H-owwxkpwLXPCA8U",
+        "part_pages": 76
       }
     ]
   },
   {
     "id": 3,
-    "title": "নবম ও দশম শ্রেণির বাংলা ভাষার ব্যাকরণ",
+    "title": "বাংলা ভাষার ব্যাকরণ\n\n\n - ২০২৩ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম ও দশম শ্রেণি",
     "thumbnail": "https://i.ibb.co/6XPPK1K/boo-icon.png",
-    "pages": 222,
+    "pages": 224,
     "category": "nctb",
     "subcategory": "highschool",
-    "pub-year": "2018",
+    "pub-year": "2023",
     "parts": [
       {
         "part_id": 1,
-        "part_url": "https://drive.google.com/uc?export=view&id=1Lz44Rw9btpgvBONTWYtDiagkkBwj_QNw",
-        "part_pages": 222
+        "part_url": "https://drive.google.com/uc?export=view&id=1mMITGS5as0s5QXtwHY6a8SxqaoCG7mS2",
+        "part_pages": 224
       }
     ]
   }
